@@ -729,7 +729,7 @@ private:
 				}
 				file.close();
 			} else {
-				std::cout << "Can not open the help document, see it in github: " << std::endl;
+				std::cout << "Can not open the help document, see it in github: " << GITHUB << std::endl;
 			}
 		});
 
